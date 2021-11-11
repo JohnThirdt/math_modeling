@@ -8,6 +8,6 @@ else:
   if d < 0:
     print('Корней нет')
   elif d == 0:
-    print(-1*(b)/(2*a))
+    print(-1 * (b) / (2 * a))
   else:
     print((-1 * b + d ** 0.5)/(2 * a), (-1 * b - d ** 0.5)/(2 * a)) 
