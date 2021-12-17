@@ -1,0 +1,2 @@
+
+print(help(3))
